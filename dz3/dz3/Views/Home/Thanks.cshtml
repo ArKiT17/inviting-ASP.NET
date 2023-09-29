@@ -1,0 +1,63 @@
+﻿@model dz3.Models.GuestResponse
+@using System.Net.Mail
+@using System.Net
+
+@{
+	Layout = null;
+}
+
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport"
+		  content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>Запрошення</title>
+	<style>
+		body {
+			height: 80vh;
+			background: #fffee8;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			flex-direction: column;
+		}
+
+		p, a, h3 {
+			font-family: 'Balsamiq Sans', cursive;
+			font-size: 1.4em;
+		}
+	</style>
+</head>
+<body>
+	@{
+		string smtpServer = "smtp.gmail.com";
+		int smtpPort = 587;
+		string smtpUsername = "xxblazexxmax01@gmail.com";
+		string smtpPassword = dz3.Password.password;
+		using (SmtpClient smtpClient = new SmtpClient(smtpServer, smtpPort)) {
+			smtpClient.Credentials = new NetworkCredential(smtpUsername, smtpPassword);
+			smtpClient.EnableSsl = true;
+
+			MailMessage mail = new MailMessage(smtpUsername, "xxblazexxmax01@gmail.com", "RSVP запрошення", Model.Name + ((Model.WillAttend ?? false) ? " " : " не ") + "прийде");
+			try {
+				smtpClient.Send(mail);
+			}
+			catch (Exception e) {
+				@:
+				<b>Під час відправки листа відбулась помилка.</b>
+			}
+		}
+	}
+	<h3>Дякую, @Model.Name!</h3>
+	@if (Model.WillAttend == true) {
+		@:
+		<p>Чудово, що ви прийдете, напої вже у холодильнику ;)</p>
+	}
+	else {
+		@:
+		<p>Шкода, що ви не прийдете, але дякую, що дали про це знати.</p>
+	}
+</body>
+</html>

@@ -1,0 +1,58 @@
+﻿<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport"
+		  content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>Запрошення</title>
+	<style>
+
+		body {
+			height: 80vh;
+			background: #fffee8;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			flex-direction: column;
+		}
+
+		p, a, h3 {
+			font-family: 'Balsamiq Sans', cursive;
+			font-size: 1.4em;
+		}
+
+		a {
+			color: white;
+			text-decoration: none;
+		}
+
+		.btn {
+			display: inline-block;
+			padding: 10px 20px;
+			background-color: #42C029FF;
+			color: #fff;
+			cursor: pointer;
+			border: none;
+			border-radius: 8px;
+			margin-left: 15px;
+			margin-bottom: 5px;
+			font-family: 'Balsamiq Sans', cursive;
+			font-size: 1.15em;
+		}
+
+			.btn:hover {
+				text-decoration: underline;
+				background-color: #236516;
+			}
+
+	</style>
+</head>
+<body>
+	<h3>@ViewBag.Greeting</h3>
+	<p>Ми збираємося на захоплюючу вечірку.</p>
+	<div class="btn">
+		@Html.ActionLink("Форма RSVP", "RsvpForm")
+	</div>
+</body>
+</html>

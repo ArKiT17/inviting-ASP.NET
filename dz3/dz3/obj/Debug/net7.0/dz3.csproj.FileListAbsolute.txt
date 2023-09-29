@@ -1,0 +1,56 @@
+D:\Шаг\ASP .NET\dz3\dz3\bin\Debug\net7.0\appsettings.Development.json
+D:\Шаг\ASP .NET\dz3\dz3\bin\Debug\net7.0\appsettings.json
+D:\Шаг\ASP .NET\dz3\dz3\bin\Debug\net7.0\dz3.staticwebassets.runtime.json
+D:\Шаг\ASP .NET\dz3\dz3\bin\Debug\net7.0\dz3.exe
+D:\Шаг\ASP .NET\dz3\dz3\bin\Debug\net7.0\dz3.deps.json
+D:\Шаг\ASP .NET\dz3\dz3\bin\Debug\net7.0\dz3.runtimeconfig.json
+D:\Шаг\ASP .NET\dz3\dz3\bin\Debug\net7.0\dz3.dll
+D:\Шаг\ASP .NET\dz3\dz3\bin\Debug\net7.0\dz3.pdb
+D:\Шаг\ASP .NET\dz3\dz3\obj\Debug\net7.0\dz3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Шаг\ASP .NET\dz3\dz3\obj\Debug\net7.0\dz3.AssemblyInfoInputs.cache
+D:\Шаг\ASP .NET\dz3\dz3\obj\Debug\net7.0\dz3.AssemblyInfo.cs
+D:\Шаг\ASP .NET\dz3\dz3\obj\Debug\net7.0\dz3.csproj.CoreCompileInputs.cache
+D:\Шаг\ASP .NET\dz3\dz3\obj\Debug\net7.0\dz3.MvcApplicationPartsAssemblyInfo.cache
+D:\Шаг\ASP .NET\dz3\dz3\obj\Debug\net7.0\dz3.RazorAssemblyInfo.cache
+D:\Шаг\ASP .NET\dz3\dz3\obj\Debug\net7.0\dz3.RazorAssemblyInfo.cs
+D:\Шаг\ASP .NET\dz3\dz3\obj\Debug\net7.0\staticwebassets\msbuild.dz3.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Шаг\ASP .NET\dz3\dz3\obj\Debug\net7.0\staticwebassets\msbuild.build.dz3.props
+D:\Шаг\ASP .NET\dz3\dz3\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.dz3.props
+D:\Шаг\ASP .NET\dz3\dz3\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.dz3.props
+D:\Шаг\ASP .NET\dz3\dz3\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Шаг\ASP .NET\dz3\dz3\obj\Debug\net7.0\staticwebassets.build.json
+D:\Шаг\ASP .NET\dz3\dz3\obj\Debug\net7.0\staticwebassets.development.json
+D:\Шаг\ASP .NET\dz3\dz3\obj\Debug\net7.0\scopedcss\bundle\dz3.styles.css
+D:\Шаг\ASP .NET\dz3\dz3\obj\Debug\net7.0\dz3.dll
+D:\Шаг\ASP .NET\dz3\dz3\obj\Debug\net7.0\refint\dz3.dll
+D:\Шаг\ASP .NET\dz3\dz3\obj\Debug\net7.0\dz3.pdb
+D:\Шаг\ASP .NET\dz3\dz3\obj\Debug\net7.0\dz3.genruntimeconfig.cache
+D:\Шаг\ASP .NET\dz3\dz3\obj\Debug\net7.0\ref\dz3.dll
+D:\Шаг\ASP .NET\dz3 — копия\dz3\bin\Debug\net7.0\appsettings.Development.json
+D:\Шаг\ASP .NET\dz3 — копия\dz3\bin\Debug\net7.0\appsettings.json
+D:\Шаг\ASP .NET\dz3 — копия\dz3\bin\Debug\net7.0\dz3.staticwebassets.runtime.json
+D:\Шаг\ASP .NET\dz3 — копия\dz3\bin\Debug\net7.0\dz3.exe
+D:\Шаг\ASP .NET\dz3 — копия\dz3\bin\Debug\net7.0\dz3.deps.json
+D:\Шаг\ASP .NET\dz3 — копия\dz3\bin\Debug\net7.0\dz3.runtimeconfig.json
+D:\Шаг\ASP .NET\dz3 — копия\dz3\bin\Debug\net7.0\dz3.dll
+D:\Шаг\ASP .NET\dz3 — копия\dz3\bin\Debug\net7.0\dz3.pdb
+D:\Шаг\ASP .NET\dz3 — копия\dz3\obj\Debug\net7.0\dz3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Шаг\ASP .NET\dz3 — копия\dz3\obj\Debug\net7.0\dz3.AssemblyInfoInputs.cache
+D:\Шаг\ASP .NET\dz3 — копия\dz3\obj\Debug\net7.0\dz3.AssemblyInfo.cs
+D:\Шаг\ASP .NET\dz3 — копия\dz3\obj\Debug\net7.0\dz3.csproj.CoreCompileInputs.cache
+D:\Шаг\ASP .NET\dz3 — копия\dz3\obj\Debug\net7.0\dz3.MvcApplicationPartsAssemblyInfo.cache
+D:\Шаг\ASP .NET\dz3 — копия\dz3\obj\Debug\net7.0\dz3.RazorAssemblyInfo.cache
+D:\Шаг\ASP .NET\dz3 — копия\dz3\obj\Debug\net7.0\dz3.RazorAssemblyInfo.cs
+D:\Шаг\ASP .NET\dz3 — копия\dz3\obj\Debug\net7.0\staticwebassets\msbuild.dz3.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Шаг\ASP .NET\dz3 — копия\dz3\obj\Debug\net7.0\staticwebassets\msbuild.build.dz3.props
+D:\Шаг\ASP .NET\dz3 — копия\dz3\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.dz3.props
+D:\Шаг\ASP .NET\dz3 — копия\dz3\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.dz3.props
+D:\Шаг\ASP .NET\dz3 — копия\dz3\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Шаг\ASP .NET\dz3 — копия\dz3\obj\Debug\net7.0\staticwebassets.build.json
+D:\Шаг\ASP .NET\dz3 — копия\dz3\obj\Debug\net7.0\staticwebassets.development.json
+D:\Шаг\ASP .NET\dz3 — копия\dz3\obj\Debug\net7.0\scopedcss\bundle\dz3.styles.css
+D:\Шаг\ASP .NET\dz3 — копия\dz3\obj\Debug\net7.0\dz3.dll
+D:\Шаг\ASP .NET\dz3 — копия\dz3\obj\Debug\net7.0\refint\dz3.dll
+D:\Шаг\ASP .NET\dz3 — копия\dz3\obj\Debug\net7.0\dz3.pdb
+D:\Шаг\ASP .NET\dz3 — копия\dz3\obj\Debug\net7.0\dz3.genruntimeconfig.cache
+D:\Шаг\ASP .NET\dz3 — копия\dz3\obj\Debug\net7.0\ref\dz3.dll
